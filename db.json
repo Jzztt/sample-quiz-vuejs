@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "answer": 0,
+      "id": 1,
+      "options": [
+        "A framework",
+        "A library",
+        "A type of hat"
+      ],
+      "question": "What is Vue?",
+      "selected": 0
+    },
+    {
+      "answer": 2,
+      "id": 2,
+      "options": [
+        "Eating a delicious snack",
+        "Viewing things",
+        "State management"
+      ],
+      "question": "What is Vuex used for?",
+      "selected": 2
+    },
+    {
+      "answer": 1,
+      "id": 3,
+      "options": [
+        "An ice cream maker",
+        "A routing library for Vue",
+        "Burger sauce"
+      ],
+      "question": "What is Vue Router?",
+      "selected": 1
+    }
+  ]
+}
