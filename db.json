@@ -9,7 +9,7 @@
         "A type of hat"
       ],
       "question": "What is Vue?",
-      "selected": 0
+      "selected": null
     },
     {
       "answer": 2,
@@ -20,7 +20,7 @@
         "State management"
       ],
       "question": "What is Vuex used for?",
-      "selected": 2
+      "selected": null
     },
     {
       "answer": 1,
@@ -31,7 +31,7 @@
         "Burger sauce"
       ],
       "question": "What is Vue Router?",
-      "selected": 1
+      "selected": null
     }
   ]
 }
